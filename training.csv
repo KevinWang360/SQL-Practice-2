@@ -1,0 +1,177 @@
+employee_id,course,date,hours
+1002,Coaching Skills,2025-05-16,5
+1003,Inclusive Leadership,2024-05-29,1
+1004,Product Deep Dive,2024-06-09,6
+1004,Product Deep Dive,2024-08-31,7
+1004,Data Visualization,2024-07-03,4
+1004,Time Management,2025-03-23,3
+1005,Inclusive Leadership,2023-12-12,1
+1006,Advanced Excel,2024-08-17,5
+1006,Inclusive Leadership,2024-02-08,5
+1007,Data Visualization,2023-08-26,5
+1007,Time Management,2023-11-14,4
+1009,Time Management,2024-09-06,4
+1009,Product Deep Dive,2023-10-27,2
+1011,Data Visualization,2023-12-26,3
+1011,SQL Basics,2025-07-24,5
+1013,Security & Privacy,2025-06-07,5
+1015,Inclusive Leadership,2023-09-08,4
+1015,SQL Basics,2023-12-03,5
+1015,Product Deep Dive,2024-01-07,3
+1015,Coaching Skills,2023-08-29,3
+1018,Product Deep Dive,2024-11-17,3
+1018,Advanced Excel,2025-05-29,3
+1019,Security & Privacy,2025-01-08,6
+1020,Coaching Skills,2023-10-15,4
+1020,Data Visualization,2024-04-28,7
+1021,Inclusive Leadership,2024-04-02,7
+1021,Time Management,2024-07-18,6
+1022,Product Deep Dive,2025-03-28,4
+1022,Security & Privacy,2024-02-05,3
+1024,Product Deep Dive,2025-07-25,5
+1024,Advanced Excel,2025-01-01,4
+1025,Advanced Excel,2025-01-28,6
+1026,Advanced Excel,2024-12-29,3
+1026,SQL Basics,2025-01-11,7
+1027,Inclusive Leadership,2025-05-14,7
+1028,Inclusive Leadership,2024-06-06,7
+1029,SQL Basics,2025-07-24,4
+1029,Coaching Skills,2024-07-25,4
+1029,Advanced Excel,2024-07-06,2
+1029,Data Visualization,2024-09-14,5
+1031,Coaching Skills,2024-10-13,6
+1031,Advanced Excel,2024-11-29,5
+1032,SQL Basics,2023-11-01,2
+1032,Security & Privacy,2024-11-19,1
+1032,Data Visualization,2024-07-09,3
+1032,Time Management,2024-12-29,5
+1033,SQL Basics,2024-11-23,5
+1033,Product Deep Dive,2023-10-01,3
+1033,Coaching Skills,2025-01-09,6
+1035,Advanced Excel,2024-11-14,3
+1035,SQL Basics,2024-04-29,2
+1036,Coaching Skills,2024-06-23,1
+1037,Data Visualization,2024-02-14,2
+1038,Advanced Excel,2024-11-11,6
+1039,Data Visualization,2025-03-17,2
+1039,SQL Basics,2024-05-30,4
+1039,Product Deep Dive,2024-01-03,5
+1041,Security & Privacy,2025-07-18,3
+1041,Product Deep Dive,2023-11-19,5
+1043,SQL Basics,2024-11-01,4
+1044,Time Management,2025-02-05,2
+1046,SQL Basics,2025-04-26,5
+1047,Advanced Excel,2025-06-18,6
+1047,Time Management,2024-10-01,7
+1049,Advanced Excel,2025-04-19,3
+1050,Coaching Skills,2024-03-03,7
+1050,Advanced Excel,2024-07-06,1
+1055,Advanced Excel,2023-12-30,1
+1055,Coaching Skills,2023-11-24,3
+1055,Security & Privacy,2024-11-08,7
+1056,Coaching Skills,2024-07-30,5
+1056,Coaching Skills,2025-04-20,4
+1056,Coaching Skills,2023-12-23,2
+1056,Inclusive Leadership,2025-06-12,5
+1056,Security & Privacy,2023-12-13,7
+1057,Advanced Excel,2024-04-23,6
+1058,Product Deep Dive,2025-07-23,4
+1059,Data Visualization,2025-05-31,3
+1060,Security & Privacy,2025-02-11,3
+1062,Advanced Excel,2025-01-08,7
+1062,Inclusive Leadership,2023-07-27,4
+1063,Inclusive Leadership,2024-11-30,5
+1063,Security & Privacy,2024-11-29,6
+1064,Product Deep Dive,2025-06-29,7
+1064,Inclusive Leadership,2025-06-29,5
+1064,Data Visualization,2024-02-08,4
+1065,Product Deep Dive,2024-04-22,4
+1065,Product Deep Dive,2024-07-18,7
+1065,Product Deep Dive,2024-08-03,7
+1065,Product Deep Dive,2024-09-15,4
+1065,Security & Privacy,2024-08-29,1
+1069,Security & Privacy,2024-11-29,3
+1070,Product Deep Dive,2023-12-25,2
+1070,Coaching Skills,2024-01-24,1
+1070,Coaching Skills,2024-08-22,1
+1071,Security & Privacy,2024-06-11,2
+1071,Time Management,2024-02-10,2
+1072,Product Deep Dive,2024-12-15,7
+1073,Data Visualization,2024-09-16,1
+1073,Data Visualization,2024-01-13,4
+1074,Security & Privacy,2025-07-08,1
+1074,SQL Basics,2024-04-20,5
+1075,SQL Basics,2025-06-01,1
+1075,Time Management,2024-10-10,7
+1076,SQL Basics,2024-12-13,1
+1076,Inclusive Leadership,2024-05-01,6
+1076,Time Management,2025-01-10,5
+1076,SQL Basics,2024-09-03,7
+1076,Time Management,2024-07-19,6
+1077,Coaching Skills,2024-02-10,2
+1077,Coaching Skills,2024-05-26,3
+1078,Product Deep Dive,2024-06-24,6
+1078,SQL Basics,2024-08-10,5
+1078,Time Management,2025-06-10,4
+1078,Inclusive Leadership,2024-08-13,5
+1079,Advanced Excel,2024-05-31,3
+1079,SQL Basics,2024-05-16,2
+1079,Data Visualization,2024-05-17,7
+1080,Product Deep Dive,2024-05-20,6
+1081,Inclusive Leadership,2024-02-29,6
+1081,Inclusive Leadership,2024-03-17,7
+1081,Time Management,2024-07-30,5
+1081,Product Deep Dive,2024-03-22,7
+1083,Coaching Skills,2023-10-26,4
+1083,Coaching Skills,2025-07-24,3
+1084,Time Management,2023-10-13,4
+1084,Time Management,2025-05-20,6
+1086,Advanced Excel,2025-04-09,5
+1087,Security & Privacy,2025-01-19,7
+1087,Coaching Skills,2024-12-06,7
+1089,Advanced Excel,2024-03-04,4
+1090,Product Deep Dive,2024-01-04,4
+1091,Data Visualization,2024-02-05,3
+1091,Inclusive Leadership,2025-07-10,4
+1091,Data Visualization,2024-11-20,2
+1092,Advanced Excel,2024-09-30,2
+1092,Time Management,2025-06-15,7
+1093,SQL Basics,2023-10-21,2
+1093,Security & Privacy,2024-12-13,1
+1094,Advanced Excel,2024-03-15,3
+1095,SQL Basics,2024-03-21,3
+1096,Product Deep Dive,2024-07-29,7
+1097,Product Deep Dive,2024-12-13,6
+1098,Security & Privacy,2024-04-28,2
+1099,Security & Privacy,2025-05-08,1
+1100,Advanced Excel,2024-06-12,5
+1100,Coaching Skills,2024-06-17,4
+1100,SQL Basics,2025-06-19,6
+1101,Security & Privacy,2024-07-31,1
+1101,SQL Basics,2025-05-05,5
+1103,Time Management,2024-03-19,7
+1104,SQL Basics,2024-08-10,3
+1105,Product Deep Dive,2025-03-08,2
+1105,Inclusive Leadership,2024-11-02,2
+1106,Product Deep Dive,2024-10-09,4
+1107,Coaching Skills,2025-04-16,3
+1108,Inclusive Leadership,2024-04-02,2
+1108,SQL Basics,2024-08-16,7
+1108,Security & Privacy,2024-12-10,6
+1108,Data Visualization,2024-06-03,7
+1109,Advanced Excel,2024-04-24,1
+1109,Coaching Skills,2025-06-15,2
+1110,Security & Privacy,2023-11-02,4
+1110,Time Management,2024-10-04,2
+1110,Security & Privacy,2025-07-02,5
+1111,Inclusive Leadership,2025-03-14,3
+1112,Inclusive Leadership,2024-03-17,4
+1113,Product Deep Dive,2024-06-27,6
+1113,Advanced Excel,2025-07-08,6
+1114,Data Visualization,2024-06-29,7
+1114,SQL Basics,2025-06-04,7
+1116,Security & Privacy,2024-06-26,7
+1116,Time Management,2024-01-30,7
+1116,Advanced Excel,2025-07-16,7
+1116,Security & Privacy,2024-10-10,2
+1117,Security & Privacy,2025-05-20,5

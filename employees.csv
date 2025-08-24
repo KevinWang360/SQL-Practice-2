@@ -1,0 +1,119 @@
+employee_id,department,role,level,hire_date,location,is_manager,manager_id,gender,age_band
+1001,Product,Product Designer,L1,2023-08-31,India,0,1028,Nonbinary,45-54
+1002,Marketing,Brand Manager,L5,2023-05-31,US-East,0,1050,Female,25-34
+1003,HR,People Ops Analyst,L1,2023-11-22,US-South,0,1067,Female,35-44
+1004,Customer Success,CSM,L3,2023-09-28,US-Midwest,1,1099,Female,<25
+1005,Sales,SDR,L4,2023-09-11,Canada,0,1085,Female,25-34
+1006,HR,Recruiter,L1,2023-12-22,US-East,0,1063,Male,25-34
+1007,Product,Product Manager,L4,2023-07-06,US-West,0,1027,Male,25-34
+1008,Engineering,Backend Engineer,L3,2023-08-29,US-Midwest,1,1078,Male,35-44
+1009,Marketing,Brand Manager,L1,2023-07-01,US-East,0,1055,Male,25-34
+1010,Sales,AE,L3,2023-12-14,Canada,0,1069,Prefer not to say,25-34
+1011,Support,Support Rep,L2,2023-08-16,US-Midwest,0,1041,Prefer not to say,25-34
+1012,Engineering,ML Engineer,L1,2024-05-03,US-Midwest,0,1070,Male,35-44
+1013,Customer Success,CSM,L5,2023-07-08,US-West,0,1011,Nonbinary,25-34
+1014,Operations,Program Manager,L3,2024-01-14,US-South,1,1107,Male,25-34
+1015,Customer Success,CSM,L3,2023-05-06,Canada,0,1049,Male,35-44
+1016,Customer Success,CSM,L5,2023-11-08,US-West,0,1050,Male,35-44
+1017,Marketing,Brand Manager,L1,2023-09-29,US-Midwest,0,1041,Male,25-34
+1018,Sales,SDR,L3,2023-09-09,US-East,0,1089,Male,35-44
+1019,Operations,Ops Analyst,L2,2023-09-09,US-East,0,1073,Male,25-34
+1020,Support,Support Team Lead,L1,2023-06-10,India,0,1051,Female,25-34
+1021,Support,Support Team Lead,L4,2023-07-27,US-Midwest,0,1102,Male,25-34
+1022,Operations,Program Manager,L3,2023-09-04,US-South,0,1017,Female,25-34
+1023,Operations,Ops Analyst,L4,2023-11-14,US-South,0,1109,Female,25-34
+1024,Marketing,Growth Marketer,L5,2023-09-04,Canada,0,1052,Female,55+
+1025,Marketing,Growth Marketer,L1,2023-08-11,US-South,0,1005,Nonbinary,25-34
+1026,Marketing,Brand Manager,L2,2024-01-19,India,0,1010,Female,35-44
+1027,Operations,Ops Analyst,L5,2023-12-11,US-West,0,1104,Male,25-34
+1028,Customer Success,Support Engineer,L2,2023-10-05,US-South,0,1084,Male,25-34
+1029,Customer Success,Implementation Specialist,L3,2023-08-16,US-South,0,1017,Male,25-34
+1030,Product,Product Designer,L5,2023-11-15,Canada,0,1020,Male,25-34
+1031,Marketing,Growth Marketer,L1,2023-08-09,US-West,0,1015,Male,55+
+1032,HR,Recruiter,L3,2023-08-19,India,1,1036,Nonbinary,25-34
+1033,Customer Success,Implementation Specialist,L3,2023-06-02,US-East,1,1084,Male,25-34
+1034,Support,Support Rep,L2,2023-10-31,US-South,0,1079,Female,25-34
+1035,Marketing,Growth Marketer,L4,2023-11-03,EU,0,1088,Female,25-34
+1036,Sales,AE,L2,2023-10-07,EU,0,1054,Female,25-34
+1037,HR,People Ops Analyst,L2,2023-09-14,US-East,0,1072,Male,35-44
+1038,Finance,FP&A Analyst,L3,2023-10-20,US-East,0,1053,Male,25-34
+1039,HR,HRBP,L2,2023-10-24,US-West,0,1075,Nonbinary,35-44
+1040,Product,UX Researcher,L4,2023-08-27,US-South,0,1081,Female,25-34
+1041,Operations,Ops Analyst,L4,2023-08-13,US-East,1,1099,Male,<25
+1042,Support,Support Rep,L3,2023-09-09,US-Midwest,0,1061,Female,25-34
+1043,HR,HRBP,L4,2023-11-04,US-Midwest,0,1018,Female,45-54
+1044,Support,Support Rep,L3,2023-08-30,EU,0,1070,Male,35-44
+1045,Support,Support Team Lead,L5,2023-12-14,US-West,1,1053,Female,35-44
+1046,Customer Success,Support Engineer,L2,2023-05-21,US-South,0,1059,Male,25-34
+1047,Operations,Ops Analyst,L4,2023-10-02,US-East,0,1002,Female,35-44
+1048,Engineering,ML Engineer,L2,2023-08-30,US-South,1,1046,Prefer not to say,35-44
+1049,Customer Success,Support Engineer,L2,2024-01-19,US-East,1,1110,Female,25-34
+1050,Customer Success,CSM,L3,2023-10-28,UK,0,1062,Male,45-54
+1051,Product,Product Manager,L1,2024-01-06,US-West,0,1087,Female,25-34
+1052,Customer Success,CSM,L5,2023-12-20,EU,1,1049,Female,25-34
+1053,Operations,Ops Analyst,L1,2023-09-15,US-West,0,1084,Male,35-44
+1054,Operations,Ops Analyst,L1,2023-10-01,US-Midwest,0,1037,Male,35-44
+1055,HR,People Ops Analyst,L5,2023-09-14,US-West,0,1069,Male,25-34
+1056,Sales,Sales Manager,L1,2023-10-21,US-Midwest,0,1077,Male,<25
+1057,HR,HRBP,L1,2023-09-18,US-Midwest,0,1026,Female,25-34
+1058,HR,HRBP,L3,2024-01-13,US-South,0,1072,Female,<25
+1059,HR,People Ops Analyst,L5,2023-06-20,US-South,0,1093,Male,<25
+1060,Operations,Ops Analyst,L1,2023-07-24,US-Midwest,0,1069,Male,25-34
+1061,HR,People Ops Analyst,L1,2023-07-19,US-Midwest,0,1063,Female,25-34
+1062,Marketing,Brand Manager,L5,2023-04-25,US-South,0,1040,Male,25-34
+1063,Sales,AE,L2,2023-06-17,US-South,0,1092,Male,25-34
+1064,Customer Success,CSM,L4,2023-09-29,EU,1,1063,Female,25-34
+1065,Product,UX Researcher,L1,2023-11-01,US-Midwest,0,1082,Male,35-44
+1066,Support,Support Team Lead,L4,2023-08-24,US-East,0,1058,Nonbinary,35-44
+1067,Marketing,Brand Manager,L2,2023-09-29,US-South,0,1046,Male,25-34
+1068,Sales,AE,L4,2023-08-03,India,1,1108,Male,25-34
+1069,Engineering,Frontend Engineer,L2,2024-02-26,US-South,0,1096,Female,25-34
+1070,Sales,Sales Manager,L4,2023-06-07,US-East,1,1068,Female,25-34
+1071,Support,Support Rep,L1,2023-06-27,US-West,0,1076,Prefer not to say,25-34
+1072,Product,Product Manager,L1,2024-01-10,US-South,0,1077,Male,25-34
+1073,Product,UX Researcher,L4,2023-10-17,India,0,1073,Male,45-54
+1074,Sales,SDR,L3,2024-02-16,UK,0,1024,Female,35-44
+1075,Engineering,Data Engineer,L5,2023-09-02,US-South,0,1098,Female,35-44
+1076,Product,Product Designer,L4,2023-08-18,Canada,0,1037,Female,25-34
+1077,Operations,Supply Planner,L5,2023-10-19,EU,0,1109,Female,25-34
+1078,Sales,Sales Manager,L4,2023-10-04,EU,1,1068,Male,<25
+1079,Engineering,Backend Engineer,L3,2024-01-21,US-East,0,1050,Male,25-34
+1080,Marketing,Brand Manager,L4,2023-08-18,US-Midwest,1,1096,Female,45-54
+1081,Customer Success,Support Engineer,L2,2023-11-17,US-Midwest,0,1091,Male,45-54
+1082,Product,UX Researcher,L4,2023-10-02,US-West,0,1031,Female,25-34
+1083,Support,Support Rep,L3,2023-09-08,US-East,0,1055,Female,25-34
+1084,Engineering,Frontend Engineer,L2,2023-09-12,US-South,0,1018,Male,25-34
+1085,Operations,Program Manager,L3,2023-08-09,US-East,1,1104,Male,25-34
+1086,Product,UX Researcher,L4,2023-06-13,India,0,1033,Male,35-44
+1087,Support,Support Team Lead,L1,2023-09-14,US-South,0,1114,Male,25-34
+1088,Product,UX Researcher,L2,2024-01-13,UK,0,1027,Male,25-34
+1089,Customer Success,Support Engineer,L2,2023-12-02,US-West,1,1060,Male,55+
+1090,Marketing,Brand Manager,L2,2023-11-30,US-West,0,1067,Male,45-54
+1091,Product,Product Designer,L2,2023-10-10,US-South,0,1052,Male,35-44
+1092,Engineering,Frontend Engineer,L2,2024-02-27,US-East,0,1105,Female,35-44
+1093,Operations,Program Manager,L3,2023-09-18,US-West,0,1102,Male,45-54
+1094,Operations,Program Manager,L1,2023-07-08,UK,0,1007,Male,25-34
+1095,Marketing,Content Marketer,L4,2023-06-09,US-South,0,1033,Female,25-34
+1096,Customer Success,Implementation Specialist,L1,2023-12-19,US-West,1,1057,Female,25-34
+1097,HR,People Ops Analyst,L1,2023-10-05,US-Midwest,1,1072,Male,25-34
+1098,Sales,AE,L4,2023-08-12,US-West,0,1021,Male,<25
+1099,Marketing,Growth Marketer,L4,2023-08-09,US-Midwest,0,1002,Male,25-34
+1100,Marketing,Brand Manager,L4,2023-08-06,Canada,0,1069,Female,35-44
+1101,Engineering,Frontend Engineer,L2,2024-01-26,US-East,1,1100,Male,35-44
+1102,Sales,Sales Manager,L1,2023-10-12,UK,0,1001,Female,55+
+1103,Sales,AE,L3,2023-12-10,US-East,0,1030,Male,35-44
+1104,HR,People Ops Analyst,L5,2023-11-24,US-West,0,1039,Male,25-34
+1105,Sales,Sales Manager,L3,2023-09-29,US-West,0,1031,Female,35-44
+1106,Product,Product Designer,L1,2023-11-24,EU,0,1097,Male,45-54
+1107,Customer Success,Support Engineer,L3,2023-09-22,US-East,0,1117,Female,25-34
+1108,Customer Success,CSM,L2,2023-10-28,US-Midwest,0,1005,Male,25-34
+1109,Operations,Supply Planner,L2,2023-07-04,US-South,1,1095,Prefer not to say,35-44
+1110,Support,Support Team Lead,L4,2023-09-03,US-West,1,1111,Nonbinary,25-34
+1111,Engineering,Data Engineer,L5,2023-04-19,US-South,0,1118,Nonbinary,25-34
+1112,Sales,Sales Manager,L3,2023-10-14,EU,1,1001,Male,25-34
+1113,Product,UX Researcher,L1,2023-09-11,US-West,0,1097,Male,25-34
+1114,HR,HRBP,L4,2023-12-10,US-South,0,1071,Prefer not to say,25-34
+1115,Support,Support Rep,L1,2023-09-03,US-West,1,1088,Male,25-34
+1116,Support,Support Team Lead,L1,2023-09-06,US-East,0,1040,Male,25-34
+1117,Support,Support Rep,L3,2024-02-16,EU,1,1110,Female,35-44
+1118,Sales,SDR,L3,2023-10-02,US-East,0,1009,Female,55+

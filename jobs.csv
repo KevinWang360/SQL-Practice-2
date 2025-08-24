@@ -1,0 +1,181 @@
+job_id,department,role,level,opening_date,recruiter
+1,Customer Success,CSM,L3,2023-05-22,RGDC
+2,Support,Support Rep,L5,2023-04-13,RKAF
+3,Support,Support Rep,L5,2023-04-08,RFQO
+4,Product,Product Designer,L5,2023-04-08,RHWT
+5,Engineering,ML Engineer,L3,2023-08-16,RHFT
+6,Customer Success,CSM,L4,2023-06-10,RCWP
+7,Sales,Sales Manager,L4,2023-03-27,RNZJ
+8,Support,Support Team Lead,L5,2023-05-25,RXJE
+9,Customer Success,CSM,L2,2023-05-05,RUZW
+10,Customer Success,Implementation Specialist,L3,2023-02-02,RLVE
+11,Finance,FP&A Analyst,L3,2023-03-03,RSRB
+12,Engineering,SRE,L2,2023-05-10,REJZ
+13,Support,Support Rep,L3,2023-08-06,RVUF
+14,Sales,SDR,L4,2023-04-08,RGFY
+15,Finance,FP&A Analyst,L4,2023-03-23,RKXL
+16,HR,HRBP,L2,2023-04-27,RTOT
+17,Marketing,Brand Manager,L4,2023-03-20,RJZD
+18,Operations,Ops Analyst,L1,2023-04-05,RWDE
+19,Marketing,Brand Manager,L1,2023-04-20,RKPM
+20,HR,People Ops Analyst,L1,2023-03-01,RRCX
+21,HR,People Ops Analyst,L3,2023-06-14,RCLL
+22,HR,People Ops Analyst,L2,2023-02-23,RNCQ
+23,Support,Support Rep,L2,2023-02-19,RJEY
+24,Support,Support Rep,L5,2023-05-02,RIAY
+25,HR,HRBP,L1,2023-06-08,RGOC
+26,Operations,Ops Analyst,L5,2023-05-01,RTDM
+27,Support,Support Rep,L3,2023-04-14,RNPZ
+28,Support,Support Rep,L3,2023-04-04,RKRJ
+29,Support,Support Team Lead,L1,2023-03-27,RGBA
+30,Support,Support Rep,L5,2023-07-02,RFBQ
+31,Product,Product Manager,L1,2023-05-10,RWBG
+32,Operations,Ops Analyst,L5,2023-03-31,RDYO
+33,Operations,Ops Analyst,L4,2023-03-17,RUEC
+34,Marketing,Growth Marketer,L4,2023-05-30,RKWB
+35,Customer Success,CSM,L4,2023-06-30,RSUC
+36,Product,Product Manager,L5,2023-06-22,RLKH
+37,Product,Product Manager,L4,2023-03-10,RVWC
+38,Support,Support Rep,L1,2023-04-04,RYWE
+39,Operations,Program Manager,L2,2023-03-26,RWXE
+40,Sales,SDR,L3,2023-04-10,RYUH
+41,Support,Support Team Lead,L2,2023-06-13,REFB
+42,Support,Support Rep,L3,2023-07-27,RBPN
+43,Support,Support Rep,L1,2023-05-13,RYCE
+44,Customer Success,Support Engineer,L2,2023-03-18,RKYO
+45,Sales,Sales Manager,L1,2023-04-18,RKPN
+46,HR,HRBP,L3,2023-08-15,RGKR
+47,HR,Recruiter,L3,2023-04-26,RYYA
+48,Customer Success,CSM,L5,2023-04-04,RFGY
+49,Customer Success,CSM,L3,2023-04-08,RHLO
+50,HR,People Ops Analyst,L5,2023-05-12,RAVH
+51,Customer Success,CSM,L3,2023-03-11,RDCO
+52,HR,Recruiter,L5,2023-03-25,RFIR
+53,HR,People Ops Analyst,L4,2023-06-21,RGXB
+54,Marketing,Growth Marketer,L1,2023-05-10,RAUQ
+55,HR,HRBP,L4,2023-04-26,ROLA
+56,Customer Success,Support Engineer,L2,2023-06-25,ROVP
+57,Engineering,ML Engineer,L2,2023-03-16,RBJY
+58,Sales,SDR,L2,2023-04-03,RRRJ
+59,Support,Support Team Lead,L5,2023-05-08,RTYG
+60,Engineering,Frontend Engineer,L4,2023-05-06,RATI
+61,Marketing,Brand Manager,L2,2023-02-17,RGUC
+62,Sales,SDR,L2,2023-03-29,RFXJ
+63,Product,Product Manager,L1,2023-04-11,RRKH
+64,Customer Success,Implementation Specialist,L3,2023-05-15,RQKZ
+65,Support,Support Team Lead,L1,2023-05-06,RCZE
+66,HR,HRBP,L1,2023-04-16,RPIU
+67,Marketing,Brand Manager,L5,2023-02-02,RDXE
+68,Sales,Sales Manager,L4,2023-04-19,RAYN
+69,Product,Product Designer,L4,2023-04-24,RBRI
+70,Finance,Payroll Specialist,L1,2023-11-17,RSHI
+71,Marketing,Growth Marketer,L4,2023-04-10,RSOE
+72,Marketing,Brand Manager,L2,2023-05-09,RQHO
+73,Sales,SDR,L3,2023-07-09,RFUP
+74,Finance,Accountant,L4,2023-06-09,RLFM
+75,Engineering,Backend Engineer,L3,2023-07-31,RNQI
+76,Product,UX Researcher,L3,2023-02-17,RFFA
+77,Product,Product Designer,L5,2023-03-04,RWBK
+78,Product,UX Researcher,L4,2023-03-22,RMGR
+79,Sales,AE,L4,2023-02-12,RFUS
+80,Operations,Ops Analyst,L5,2023-04-24,RGWL
+81,Operations,Supply Planner,L5,2023-03-07,RZPY
+82,Operations,Supply Planner,L5,2023-08-14,RLXL
+83,Engineering,ML Engineer,L4,2023-03-12,RGGQ
+84,Support,Support Team Lead,L2,2023-04-03,RHCH
+85,HR,Recruiter,L3,2023-06-13,RXCD
+86,Marketing,Brand Manager,L2,2023-02-23,RSBK
+87,Support,Support Team Lead,L4,2023-02-11,RBVK
+88,Sales,Sales Manager,L4,2023-05-01,RMYH
+89,Marketing,Growth Marketer,L5,2023-05-06,RTOP
+90,Product,Product Designer,L2,2023-06-11,RHMK
+91,Marketing,Brand Manager,L2,2023-05-23,RVXZ
+92,Support,Support Rep,L4,2023-05-08,RPRC
+93,Marketing,Content Marketer,L4,2023-03-17,REGI
+94,Operations,Program Manager,L3,2023-05-04,RTJT
+95,Marketing,Growth Marketer,L1,2023-05-08,RMTB
+96,Finance,FP&A Analyst,L1,2023-03-15,RUQT
+97,Product,Product Manager,L1,2023-09-13,RQGM
+98,Customer Success,Support Engineer,L2,2023-05-20,RMGJ
+99,Customer Success,CSM,L3,2023-03-04,RCAI
+100,Marketing,Growth Marketer,L2,2023-06-11,RBRQ
+101,Customer Success,Support Engineer,L3,2023-06-25,RWPD
+102,Sales,SDR,L5,2023-05-16,RLJN
+103,Finance,FP&A Analyst,L4,2023-04-07,RVCY
+104,Operations,Supply Planner,L2,2023-03-14,RLTZ
+105,HR,People Ops Analyst,L5,2023-04-16,RUMV
+106,HR,Recruiter,L2,2023-05-11,RVCW
+107,Product,Product Designer,L5,2023-04-21,RPJA
+108,Finance,FP&A Analyst,L4,2023-08-05,RFUI
+109,HR,People Ops Analyst,L1,2023-05-30,RNEG
+110,Marketing,Growth Marketer,L5,2023-03-09,RTRQ
+111,Operations,Program Manager,L1,2023-03-01,RCFR
+112,HR,People Ops Analyst,L5,2023-05-21,RJOI
+113,Support,Support Team Lead,L3,2023-04-08,RSHG
+114,Customer Success,Support Engineer,L2,2023-06-06,RITY
+115,Engineering,Frontend Engineer,L2,2023-05-20,RTHP
+116,Support,Support Team Lead,L1,2023-04-16,RVHJ
+117,HR,HRBP,L5,2023-03-10,RDBB
+118,HR,People Ops Analyst,L2,2023-02-13,RQTC
+119,Sales,Sales Manager,L3,2023-05-03,RMLE
+120,Sales,SDR,L4,2023-02-22,RCBM
+121,Sales,AE,L2,2023-03-08,RVYC
+122,Product,Product Manager,L5,2023-04-30,RTPU
+123,Product,UX Researcher,L4,2023-04-24,RLLW
+124,Marketing,Growth Marketer,L5,2023-02-26,RQPT
+125,Product,UX Researcher,L2,2023-07-04,RGCG
+126,Support,Support Rep,L2,2023-07-02,RALP
+127,HR,HRBP,L2,2023-05-23,RHHW
+128,Customer Success,Support Engineer,L2,2023-05-23,RYUQ
+129,Product,Product Designer,L1,2023-05-23,ROQX
+130,Engineering,Backend Engineer,L1,2024-05-27,REHT
+131,HR,Recruiter,L1,2023-06-24,RMHK
+132,HR,People Ops Analyst,L5,2023-06-01,RMCB
+133,Marketing,Brand Manager,L3,2023-03-13,RPAF
+134,Sales,Sales Manager,L3,2023-04-07,ROTE
+135,Support,Support Team Lead,L3,2023-10-31,REPQ
+136,Operations,Ops Analyst,L4,2023-02-03,RJIR
+137,Engineering,Data Engineer,L4,2023-03-27,RSHY
+138,Support,Support Rep,L4,2023-07-05,RCGD
+139,Marketing,Brand Manager,L1,2023-03-15,RROK
+140,Product,UX Researcher,L3,2023-06-03,RQML
+141,Sales,AE,L3,2023-04-23,ROYL
+142,Operations,Ops Analyst,L1,2023-03-18,RZPG
+143,Engineering,Data Engineer,L5,2023-01-30,RAKF
+144,Customer Success,Implementation Specialist,L1,2023-05-02,RQEY
+145,HR,People Ops Analyst,L3,2023-03-12,RKMM
+146,Operations,Supply Planner,L2,2023-04-14,RJXN
+147,Engineering,Backend Engineer,L3,2023-05-22,RUWI
+148,Support,Support Team Lead,L1,2023-06-17,RHHP
+149,Operations,Ops Analyst,L4,2023-03-26,ROIO
+150,Support,Support Team Lead,L4,2023-03-18,RYWZ
+151,Product,UX Researcher,L4,2023-02-22,RGUB
+152,Operations,Supply Planner,L4,2023-06-21,RKRV
+153,Engineering,ML Engineer,L1,2023-10-10,RDZI
+154,Customer Success,Implementation Specialist,L1,2023-06-30,RNLS
+155,Marketing,Brand Manager,L2,2023-07-20,RBUG
+156,Marketing,Brand Manager,L1,2023-03-16,RWWW
+157,Marketing,Growth Marketer,L4,2023-05-18,RWAB
+158,HR,HRBP,L1,2023-06-10,RLCQ
+159,Customer Success,Implementation Specialist,L2,2023-01-10,RSXB
+160,Sales,SDR,L3,2023-03-03,RJDN
+161,Engineering,Frontend Engineer,L2,2023-08-21,RCWQ
+162,Product,Product Designer,L5,2023-02-16,RDLG
+163,HR,People Ops Analyst,L1,2023-08-04,RXMH
+164,Support,Support Rep,L1,2023-02-16,RLIP
+165,Marketing,Brand Manager,L3,2023-03-04,RLHZ
+166,Operations,Ops Analyst,L2,2023-05-19,RJJH
+167,HR,HRBP,L4,2023-04-25,RHOR
+168,Sales,Sales Manager,L4,2023-03-31,RVXU
+169,Product,UX Researcher,L3,2023-08-17,RFEG
+170,Engineering,Backend Engineer,L1,2023-02-23,RILP
+171,Engineering,Backend Engineer,L3,2023-04-12,RIKF
+172,Support,Support Team Lead,L5,2023-05-28,RNHE
+173,Operations,Program Manager,L3,2023-05-07,RUMB
+174,Product,UX Researcher,L4,2023-03-19,RZUJ
+175,Marketing,Content Marketer,L3,2023-03-21,RNLR
+176,HR,People Ops Analyst,L4,2023-06-16,RVYC
+177,Product,Product Designer,L1,2023-06-20,RQYI
+178,Product,UX Researcher,L1,2023-05-09,RQMS
+179,Marketing,Content Marketer,L2,2023-03-10,RBAZ
+180,Customer Success,CSM,L2,2023-03-22,RXDL
